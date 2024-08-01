@@ -7,6 +7,8 @@ Current Focus -  Currently, I am dedicatedly focused on expanding my knowledge a
 How to Reach Me - You can reach me through my website: [Home](https://sites.google.com/view/theunkownhacker/home) It serves as a hub for my projects and provides more information about my work and experiences.
 
 Thank you for visiting my profile, and I look forward to connecting with you soon!
+
+![The-UnknownHacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-UnknownHacker&show_icons=true&theme=dark)
 <!---
 theunkownhacker/theunkownhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
