@@ -11,7 +11,7 @@ Thank you for visiting my profile, and I look forward to connecting with you soo
 ![The-UnknownHacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-UnknownHacker&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-UnknownHacker&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-UnknownHacker&langs_count=5&theme=dark)
 
 <!---
 theunkownhacker/theunkownhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
